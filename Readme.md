@@ -6,15 +6,15 @@ a popular chat client, which really helps in readability.
 
 It will do the following:
 
-    * Always display the message time
-    * Show a user's avatar next to her message
+* Always display the message time
+* Show a user's avatar next to her message
 
 See the screenshot for an example.
 
 You can have it as a Fluid.app user script, or as a bookmarklet. For the
 bookmarklet, see:
 
-https://jensarps.github.com/flowdock-enhancements/
+http://jensarps.github.com/flowdock-enhancements/
 
 Fluid App User Script
 ====
