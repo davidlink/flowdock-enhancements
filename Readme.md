@@ -9,7 +9,7 @@ It will do the following:
 * Always display the message time
 * Show a user's avatar next to her message
 
-See the screenshot for an example.
+For a screenshot, go to the page linked below.
 
 You can have it as a Fluid.app user script, or as a bookmarklet. For the
 bookmarklet, see:
